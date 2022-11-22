@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @emilydmf
-- 👀 I’m interested in me formar
-- 🌱 I’m currently learning técnico de informática
+- 👀 I’m interested in graduate
+- 🌱 I’m currently learning Computer Technician
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
